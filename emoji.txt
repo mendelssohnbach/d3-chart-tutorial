@@ -1,0 +1,95 @@
+
+🎉 :tada: プロジェクトの開始
+✨ :sparkles: 新機能の導入
+✏️ :pencil2: タイポの修正
+🐛 :bug: バグ修正
+💄 :lipstick: UI やスタイルの追加または更新
+🚚 :truck: リソースの移動またはリネーム
+➕ :heavy_plus_sign: 依存関係を追加
+➖ :heavy_minus_sign: 依存関係を削除
+🔥 :fire: コードまたはファイルの削除
+📝 :memo: ドキュメントを追加または更新
+🔖 :bookmark: リリース/バージョンタグ
+-----
+🙈 :see_no_evil: .gitignoreファイルを追加または更新
+🎨 :art: コードの構造/フォーマットを改善
+🔧 :wrench: 構成ファイルを追加または更新
+🚧 :construction: 進行中の作業
+🔨 :hammer: 開発スクリプトを追加または更新
+🚑️ :ambulance: 重要な修正プログラム
+♻️ :recycle: コードをリファクタリング
+⚡️ :zap: パフォーマンスをの向上
+🚀 :rocket: デプロイ
+🍱 :bento: アセットを追加または更新する
+🥅 :dizzy: アニメーションとトランジションを追加または更新
+📱 :iphone: レスポンシブデザインに取り組み
+💡 :bulb: ソースコードのコメントを追加または更新
+✅ :white_check_mark: テストを追加、更新、または合格
+🤡 :clown_face: モックの作成と作業
+🚧 :construction_worker: CIビルドシステムを追加または更新
+🧪 :test_tube: 失敗したテストを追加
+-----
+♿️ :wheelchair: アクセシビリティを向上させます
+🔒️ :lock: セキュリティの問題を修正
+🔐 :closed_lock_with_key: シークレットの追加または更新
+⬇️ :arrow_down: 依存関係をダウングレード
+⬆️ :arrow_up: 依存関係をアップグレード
+📌 :pushpin:依存関係を特定のバージョンに固定
+📈 :chart_with_upwards_trend: 分析またはトラックコードを追加または更新
+🌐 :globe_with_meridians: 国際化とローカリゼーション
+-----
+💥 :boom: 重大な変更を導入します
+👽️ :alien: 外部APIの変更によりコードを更新
+💩 :poop: 改善が必要な悪いコードを書く
+🍻 :beers: 酔ってコードを書く
+⏪️ :rewind: 変更を元に戻します
+⚰️ :coffin: デッドコードを削除します
+🔀 :twisted_rightwards_arrows: ブランチをマージします
+📦️ :package: コンパイルされたファイルまたはパッケージを追加または更新します
+📄 :page_facing_up: ライセンスを追加または更新し
+💬 :speech_balloon: テキストとリテラルを追加または更新
+-----
+🗃️ :card_file_box: データベース関連の変更を実行し
+🔊 :loud_sound: ログを追加または更新
+🔇 :mute: ログを削除
+👥 :busts_in_silhouette: 寄稿者を追加または更新
+🚸 :children_crossing: ユーザーエクスペリエンス/使いやすさを向上
+🏗️ :building_construction: アーキテクチャを変更
+🥚　:egg: イースターエッグを追加または更新
+📸 :camera_flash: スナップショットを追加または更新
+⚗️ :alembic: 実験を行います
+-----
+🔍️ :mag: SEOを改善
+🏷️ :label: タイプを追加または更新
+🌱 :seedling: シードファイルを追加または更新
+🚩 :triangular_flag_on_post: 機能フラグを追加、更新、または削除
+🥅 :goal_net: エラーをキャッチします
+🗑️ :wastebasket: クリーンアップする必要のある非推奨のコード
+🛂 :passport_control: 承認、役割、および権限に関連するコードで作業
+🩹 :adhesive_bandage: 重要ではない問題の簡単な修正
+🧐 :monocle_face: データの調査/検査
+-----
+👔 :necktie: ビジネスロジックを追加または更新
+🩺 :stethoscope: ヘルスチェックを追加または更新
+🧱 :bricks: インフラストラクチャ関連の変更
+🧑‍💻 :technologist: 開発者エクスペリエンスを向上させる
+💸 :money_with_wings: スポンサーシップまたはお金に関連するインフラストラクチャを追加
+
+https://gitmoji.dev/
+
+# ==== The Seven Rules ====
+1. 件名と本文を空白で分離
+2. 件名は50文字以内
+3. 件名の頭文字は大文字
+4. 件名にピリオドを使わない
+5. 件名には命令形を用いる
+6. 本文は72文字以内
+7. どのようにを説明する
+
+```
+(const|var)(\s.*\s*)=\s*require\(((‘|”).*(‘|”))\)(;?)$
+
+import$2from $3$6
+```
+
+
